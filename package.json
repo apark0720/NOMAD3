@@ -6,7 +6,4 @@
     "topojson": "1",
     "d3": "3"
   },
-  "scripts": {
-    "top": "topojson -version"
-  }
 }
