@@ -1,0 +1,12 @@
+{
+  "name": "anonymous",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "topojson": "1",
+    "d3": "3"
+  },
+  "scripts": {
+    "top": "topojson -version"
+  }
+}
