@@ -44,4 +44,4 @@ This project will be implemented with the following technologies:
 ### Bonus features
 
 - [ ] Connect external API for flight pricing data
-- [ ] Average hotel/airbnb prices, precipitation info, links to "things to do" and a travel booking site. 
+- [ ] Average hotel/airbnb prices, precipitation info, links to "things to do" and a travel booking site.
