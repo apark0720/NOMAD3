@@ -2,7 +2,7 @@
 
 ### Background
 
-NOMAD3 will graphically visualize the "top 50" world travel destinations and recommend the best cities to travel in a given month from San Fransisco International Airport using the D3.js library. The categories will include third-party recommendations regarding the best months of travel, average temperatures, and average flight prices. It may also include average hotel/airbnb prices, precipitation, and links to "things to do" and a travel booking site. Currently there is no website that has the above information in a centralized source.
+NOMAD3 will graphically visualize the "top 20" world travel destinations and recommend the best cities to travel in a given month from San Fransisco International Airport using the D3.js library. The categories will include third-party recommendations regarding the best months of travel, average temperatures, and average flight prices. Currently there is no website that has the above information in a centralized source.
 
 ### Functionality & MVP  
 
@@ -10,7 +10,7 @@ NOMAD3 will have the following features:
 
 - [ ] Visually see the worlds top 50 travel destinations on a world map.
 - [ ] Filter by month & good/neutral/bad
-- [ ] Use an external API for flight prices
+- [ ] Display popup info for each travel destination
 - [ ] A production readme
 
 
@@ -39,8 +39,9 @@ This project will be implemented with the following technologies:
 
 **Day 4**:
 - CSS Styling
-- Add filter features. 
+- Add filter features.
 
 ### Bonus features
 
 - [ ] Connect external API for flight pricing data
+- [ ] Average hotel/airbnb prices, precipitation info, links to "things to do" and a travel booking site. 
